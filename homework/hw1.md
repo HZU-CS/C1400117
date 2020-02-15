@@ -19,4 +19,4 @@
 ## 参考
 
 1. Markdown基本语法和Git常用指令可以参考[资料](../resource/resource.md)
-2. 简历可以参考[简历参考](./hw1/sample.md)
+2. 简历可以参考[简历参考](./hw1/sample.md)[Gitee优秀简历](https://gitee.com/cool-resume)
