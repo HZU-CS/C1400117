@@ -78,6 +78,11 @@
 - [从0开始学习 GitHub 系列之「Git 速成」](https://zhuanlan.zhihu.com/p/21269318)
 - [如何优雅地使用Git？](https://www.zhihu.com/question/20866683)
 
+GUI客户端
+
+- [Git 有哪些好用的图形化客户端？目前用的最多的是？](https://www.zhihu.com/question/22932048)
+- Gitee自带的WebIDE
+
 ## Markdown
 
 视频
