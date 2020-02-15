@@ -12,7 +12,7 @@
 | C语言概述          | [C1](./lecture/C1.md)   |
 | 变量、常量及表达式 | [C2](./lecture/C2.md)   |
 | 判断和分支、注释   | [C3](./lecture/C3.md)   |
-| 循环               | [c4](./lecture/C4.md)   |
+| 循环               | [C4](./lecture/C4.md)   |
 | 循环控制和应用     | [C5](./lecture/C5.md)   |
 | 数据类型和计算     | [C6](./lecture/C6.md)   |
 | 函数               | [C7](./lecture/C7.md)   |
