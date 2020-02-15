@@ -29,7 +29,7 @@
   - [repl](https://repl.it/languages/c)
   - [online gdb](https://www.onlinegdb.com/)
 
-## Python
+## *Python
 
 网课
 
@@ -41,7 +41,7 @@
 - Python核心编程
 - Python编程从入门到实践
 
-## JS
+## *JS
 
 网课
 
@@ -53,7 +53,7 @@
 - [w3cshool](https://www.w3cschool.cn/tutorial)
 - [菜鸟教材](https://www.runoob.com/)
 
-## Java
+## *Java
 
 网课
 
@@ -64,6 +64,30 @@
 
 - Java编程思想
 - Java核心技术
+
+## Git
+
+视频
+
+- [【教程】学会Git玩转Github【全】](https://www.bilibili.com/video/av10475153)
+- [Git & Github 超简单入门教学 10分钟学会使用github！](https://www.bilibili.com/video/av62967996)
+
+教程
+
+- [git - 入门指南](https://zhuanlan.zhihu.com/p/21193604)
+- [从0开始学习 GitHub 系列之「Git 速成」](https://zhuanlan.zhihu.com/p/21269318)
+- [如何优雅地使用Git？](https://www.zhihu.com/question/20866683)
+
+## Markdown
+
+视频
+
+- [20分钟教你使用Markdown](https://www.bilibili.com/video/av8819726)
+- [三分半课堂 · 001 · 三分半上手超好用的 Markdown](https://www.bilibili.com/video/av13289789)
+
+教材
+
+- [Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)
 
 ## 待补充
 
