@@ -99,7 +99,7 @@
 
 其他参考资源
 
-- [参考资料汇总](./resource/resource.md)
+- [参考资料汇总](../resource/resource.md)
 
 # 欢迎大家一起学习C语言！
 
