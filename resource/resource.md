@@ -100,7 +100,13 @@ GUI客户端
 
 ## OJ平台
 
+[PTA](https://pintia.cn/)
 
+[Lintcode](https://www.lintcode.com/)
+
+[Leetcode](https://leetcode-cn.com/)
+
+[OJ平台索引](https://www.zhihu.com/question/25574458)
 
 ## 待补充
 
