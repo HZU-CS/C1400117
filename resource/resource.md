@@ -17,7 +17,7 @@
 
 环境配置
 
-- Dev-C++
+- Visual Studio Express
 - VSCode
   - [Visual Studio Code 如何编写运行 C、C++ 程序？](https://www.zhihu.com/question/30315894)
   - [windows 10上使用vscode编译运行和调试C/C++](https://zhuanlan.zhihu.com/p/77645306)
@@ -25,6 +25,7 @@
   - [现代化 C++ 开发工具 CLion:从入门到精通](https://zhuanlan.zhihu.com/p/97175720)
   - [Clion 配置C/C++环境](https://zhuanlan.zhihu.com/p/40776005)
 - Xcode
+- Dev-C++
 - 在线编译器
   - [repl](https://repl.it/languages/c)
   - [online gdb](https://www.onlinegdb.com/)
@@ -35,14 +36,19 @@
 
 - [给伸手党的福利：Python 新手入门引导](https://zhuanlan.zhihu.com/p/25824007)
 - [毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560)
+- [请问自学 Python 有必要买课程吗？](https://www.zhihu.com/question/318258554)
+- [请问有哪些优秀Python课程推荐？](https://www.zhihu.com/question/58081520)
+- [如何零基础自学入门Python](https://zhuanlan.zhihu.com/p/29195069)
 
 网课
 
+- [Python for Beginners微软官方Python初学者教程](https://www.bilibili.com/video/av69042526)
 - [Introduction to Python Programming](https://cn.udacity.com/course/introduction-to-python--ud1110)
 - [CS61a](https://cs61a.org/)难度较高谨慎学习
 
 参考书
 
+- [笨办法学Python](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/)
 - Python核心编程
 - Python编程从入门到实践
 
@@ -121,6 +127,11 @@ GUI客户端
 教材
 
 - [Markdown 教程](https://www.runoob.com/markdown/md-tutorial.html)
+
+编辑器
+
+- Typora
+- VSCode
 
 ## OJ平台
 
