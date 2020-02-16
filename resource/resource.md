@@ -21,7 +21,7 @@
 - VSCode
   - [Visual Studio Code 如何编写运行 C、C++ 程序？](https://www.zhihu.com/question/30315894)
   - [windows 10上使用vscode编译运行和调试C/C++](https://zhuanlan.zhihu.com/p/77645306)
-- CLion
+- CLion（学生教育版免费一年）
   - [现代化 C++ 开发工具 CLion:从入门到精通](https://zhuanlan.zhihu.com/p/97175720)
   - [Clion 配置C/C++环境](https://zhuanlan.zhihu.com/p/40776005)
 - Xcode
@@ -30,6 +30,11 @@
   - [online gdb](https://www.onlinegdb.com/)
 
 ## *Python
+
+入门索引
+
+- [给伸手党的福利：Python 新手入门引导](https://zhuanlan.zhihu.com/p/25824007)
+- [毫无基础的人如何入门 Python ？](https://www.zhihu.com/question/32048560)
 
 网课
 
@@ -40,6 +45,11 @@
 
 - Python核心编程
 - Python编程从入门到实践
+
+环境配置
+
+- 在线IDE参考C语言
+- PyCharm（学生教育版免费一年）
 
 ## *JS
 
@@ -53,7 +63,16 @@
 - [w3cshool](https://www.w3cschool.cn/tutorial)
 - [菜鸟教材](https://www.runoob.com/)
 
+环境配置
+
+- 在线IDE参考C语言
+- WebStorm（学生教育版免费一年）
+
 ## *Java
+
+入门索引
+
+- [初学者怎么学习java？](https://www.zhihu.com/question/52406861)
 
 网课
 
@@ -64,6 +83,11 @@
 
 - Java编程思想
 - Java核心技术
+
+环境配置
+
+- 在线IDE参考C语言
+- IntelliJ（学生教育版免费一年）
 
 ## Git
 
