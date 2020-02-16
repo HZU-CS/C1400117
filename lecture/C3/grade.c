@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("????0-100?");
+	printf("Input grade, from 0 to 100");
 	int grade;
 	scanf("%d", &grade);
 	grade /=10;

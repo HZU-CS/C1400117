@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("??????1-12");
+	printf("Input month, from 1 to 12");
 	int month;
 	scanf("%d", &month);
 	switch ( month )
