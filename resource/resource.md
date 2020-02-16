@@ -85,6 +85,10 @@ GUI客户端
 
 ## Markdown
 
+演示
+
+- [cheatsheet](./md-cheatsheet.pdf)
+
 视频
 
 - [20分钟教你使用Markdown](https://www.bilibili.com/video/av8819726)
