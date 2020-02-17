@@ -17,15 +17,15 @@
 
 环境配置
 
-- Visual Studio Express
-- VSCode
+- Visual Studio Express（电脑硬件配置要求较高）
+- VSCode（电脑硬件配置要求较低）
   - [Visual Studio Code 如何编写运行 C、C++ 程序？](https://www.zhihu.com/question/30315894)
   - [windows 10上使用vscode编译运行和调试C/C++](https://zhuanlan.zhihu.com/p/77645306)
-- CLion（学生教育版免费一年）
+- CLion（学生教育版免费一年，电脑硬件配置要求较高）
   - [现代化 C++ 开发工具 CLion:从入门到精通](https://zhuanlan.zhihu.com/p/97175720)
   - [Clion 配置C/C++环境](https://zhuanlan.zhihu.com/p/40776005)
 - Xcode
-- Dev-C++
+- Dev-C++（电脑硬件配置要求较低）
 - 在线编译器
   - [repl](https://repl.it/languages/c)
   - [online gdb](https://www.onlinegdb.com/)
