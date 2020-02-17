@@ -4,15 +4,15 @@
 
 截止日期：北京时间2020-03-16, 09:00am
 
-## 熟练使用Markdown
+## 熟练使用Markdown(50%)
 
 1. 熟悉Markdown基本语法
 2. 使用Markdown编写一份简单的个人简历
 3. *尝试使用Github Pages或者Gitee Pages建立个人网站或者博客
 
-## 熟练使用Git
+## 熟练使用Git(50%)
 
-1. 熟悉Git常用指令
+1. 熟悉Git常用指令，可以使用IDE或者GUI客户端
 2. 在Github或者Gitee上建立个人代码仓库，以后在上面提交作业
 3. 仓库设定为私人仓库，邀请我进入即可
 
