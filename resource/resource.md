@@ -59,6 +59,8 @@
 
 - [Python for Beginners微软官方Python初学者教程](https://www.bilibili.com/video/av69042526)
 - [Introduction to Python Programming](https://cn.udacity.com/course/introduction-to-python--ud1110)
+- [python教程2019版](https://www.bilibili.com/video/av75855831)
+- [一起啃书-Python编程从入门到实践](https://www.bilibili.com/video/av51845189)
 - [CS61a](https://cs61a.org/)难度较高谨慎学习
 
 参考书
@@ -76,7 +78,7 @@
 
 网课
 
-- [Javascript入门-浙江大学 -翁恺](https://www.bilibili.com/video/av76460280)
+- [一小时学习Node.js](https://www.bilibili.com/video/av76759313)
 
 - [Web 开发攻城狮训练营](https://www.bilibili.com/video/av68903874)
 - [高级 Web 开发攻城狮训练营](https://www.bilibili.com/video/av86712776)
@@ -100,6 +102,7 @@
 网课
 
 - [cs61b](https://inst.eecs.berkeley.edu/~cs61b/archives.html)难度较高谨慎学习
+- [2个半小时学 Java 完整入门教程](https://www.bilibili.com/video/av76246921)
 - [翁恺 Java程序设计](https://www.bilibili.com/video/av77648377)
 
 参考书
