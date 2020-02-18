@@ -1,6 +1,6 @@
 # 参考资料汇总
 
-## C语言
+## C
 
 网课
 
@@ -29,6 +29,21 @@
 - 在线编译器
   - [repl](https://repl.it/languages/c)
   - [online gdb](https://www.onlinegdb.com/)
+
+## NCRE
+
+资料：
+
+
+
+索引：
+
+- [怎么准备全国计算机二级（C语言）考试？](https://www.zhihu.com/question/20097610)
+- [暑假在家怎么学习计算机二级c语言？](https://www.zhihu.com/question/24562865)
+- [计算机二级自学，过的可能性大吗？](https://www.zhihu.com/question/293043887)
+- [计算机二级该怎么自学？](https://www.zhihu.com/question/285521331)
+- [怎么通过一个寒假，考过计算机二级？](https://www.zhihu.com/question/361224475)
+- [计算机二级 Python 怎么考？考什么？](https://www.zhihu.com/question/281129975)
 
 ## *Python
 
