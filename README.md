@@ -24,8 +24,8 @@
 | 12.程序项目结构       | [C12](./lecture/C12.md)     |
 | 13.输入输出和位运算   | [C13](./lecture/C13.md)     |
 | 14.*抽象数据类型      | [C14](./lecture/C14.md)     |
-| 15.*WinAPI            | [C15](./lecture/C15.md)     |
-| 16.*Unix系统接口      | [C16](./lecture/C16.md)     |
+| 15.*算法              | [C15](./lecture/C15.md)     |
+| 16.*系统相关接口      | [C16](./lecture/C16.md)     |
 
 
 
