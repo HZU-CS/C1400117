@@ -26,5 +26,59 @@
 
 ## Talk is cheap. Show me the code.
 
+## The Zen of Python
+
+> Beautiful is better than ugly.
+> Explicit is better than implicit.
+> Simple is better than complex.
+> Complex is better than complicated.
+> Flat is better than nested.
+> Sparse is better than dense.
+> Readability counts.
+> Special cases aren't special enough to break the rules.
+> Although practicality beats purity.
+> Errors should never pass silently.
+> Unless explicitly silenced.
+> In the face of ambiguity, refuse the temptation to guess.
+> There should be one-- and preferably only one --obvious way to do it.
+> Although that way may not be obvious at first unless you're Dutch.
+> Now is better than never.
+> Although never is often better than *right* now.
+> If the implementation is hard to explain, it's a bad idea.
+> If the implementation is easy to explain, it may be a good idea.
+> Namespaces are one honking great idea -- let's do more of those!
+
+优美胜于丑陋。
+
+显式胜于隐式。
+
+简单胜于复杂。
+
+复杂胜于难懂。
+
+扁平胜于嵌套。
+
+分散胜于密集。
+
+可读性应当被重视。
+
+实用性比纯洁性更重要，特例不能凌驾于规则之上。
+
+除非刻意地静默，否则不要无故忽视异常。
+
+如果遇到模棱两可的逻辑，请不要自作聪明地瞎猜。
+
+应该提供一种，且最好只提供一种，一目了然的解决方案。
+
+虽然一开始这种方法并不是显而易见的，但谁叫你不是Python之父呢。
+
+立刻着手好过永远不做，永远不做好过不思考的蛮干。
+
+如果你的实现很难解释，它就一定不是个好主意。
+
+如果你的实现容易解释，那它有可能是个好想法。
+
+命名空间是个绝妙的想法，让我们多多地使用它们吧！
+
 ## 待补充
 

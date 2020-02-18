@@ -76,6 +76,8 @@
 
 网课
 
+- [Javascript入门-浙江大学 -翁恺](https://www.bilibili.com/video/av76460280)
+
 - [Web 开发攻城狮训练营](https://www.bilibili.com/video/av68903874)
 - [高级 Web 开发攻城狮训练营](https://www.bilibili.com/video/av86712776)
 
@@ -148,7 +150,7 @@ GUI客户端
 - Typora
 - VSCode
 
-## OJ平台
+## OJ练习平台
 
 [PTA](https://pintia.cn/)
 
