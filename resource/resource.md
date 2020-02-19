@@ -18,7 +18,9 @@
 环境配置
 
 - Visual Studio Express（电脑硬件配置要求较高）
+  - [Visual Studio 2019安装与使用](https://zhuanlan.zhihu.com/p/94998894)
 - VSCode（电脑硬件配置要求较低）
+  - [基于 VS Code + MinGW-w64 的C语言/C++简单环境配置，专治小白](https://zhuanlan.zhihu.com/p/77074009)
   - [Visual Studio Code 如何编写运行 C、C++ 程序？](https://www.zhihu.com/question/30315894)
   - [windows 10上使用vscode编译运行和调试C/C++](https://zhuanlan.zhihu.com/p/77645306)
 - CLion（学生教育版免费一年，电脑硬件配置要求较高）
