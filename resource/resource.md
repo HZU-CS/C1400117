@@ -56,6 +56,7 @@
 - [请问自学 Python 有必要买课程吗？](https://www.zhihu.com/question/318258554)
 - [请问有哪些优秀Python课程推荐？](https://www.zhihu.com/question/58081520)
 - [如何零基础自学入门Python](https://zhuanlan.zhihu.com/p/29195069)
+- [Python 应该怎么学？](https://www.zhihu.com/question/353341563)
 
 网课
 
@@ -120,13 +121,9 @@
 
 ## Git
 
-视频
-
-- [【教程】学会Git玩转Github【全】](https://www.bilibili.com/video/av10475153)
-- [Git & Github 超简单入门教学 10分钟学会使用github！](https://www.bilibili.com/video/av62967996)
-
 教程
 
+- [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [git - 入门指南](https://zhuanlan.zhihu.com/p/21193604)
 - [从0开始学习 GitHub 系列之「Git 速成」](https://zhuanlan.zhihu.com/p/21269318)
 - [如何优雅地使用Git？](https://www.zhihu.com/question/20866683)
@@ -135,6 +132,7 @@ GUI客户端
 
 - [Git 有哪些好用的图形化客户端？目前用的最多的是？](https://www.zhihu.com/question/22932048)
 - Gitee自带的WebIDE
+- Visual Studio自带Git
 
 ## Markdown
 

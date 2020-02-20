@@ -24,9 +24,14 @@
 - 关于调试Debug的问题（“为什么这段代码表现不是预期？”），一定要包含你设想的输出行为，还有能够重现问题所需要的尽可能短和少的代码
 - 关于作业的提问必须包括你目前所做的工作的汇总，然后描述你遇到的问题。
 
-## Talk is cheap. Show me the code.
+## 给同学们的寄语
 
-## The Zen of Python
+> ### Talk is cheap. Show me the code.(废话少说,放码过来)
+> ### Practice makes progress.
+> ### All experience comes from mistakes.
+> ### Don't be one of the leeches.(不要当伸手党)
+
+## The Zen of Python(Python禅意)
 
 > Beautiful is better than ugly.<br>
 > Explicit is better than implicit.<br>
@@ -84,7 +89,7 @@
 
 1. > Q:为什么Visual Studio安装完后无法新建C++空项目?
    >
-   > A:安装的时候忘记选择C++包,可以选择重装也可以打开installer勾选C++包安装
+   > A:安装的时候忘记选择C++包,可以选择重新安装勾选C++包也可以打开installer勾选C++包安装
 
 2. > Q:Visual Studio需要安装 .NET Framework 4.6 或更高版本
    >
@@ -96,7 +101,11 @@
 
 ### 2. Visual Studio 编程相关
 
-1. > Q:scanf函数报错
+1. > Q:编辑程序后运行没有反应?
+   >
+   > A:看看文件名那里是否有*号,有的话代表编辑没有保存,要保存后再运行
+   
+2. > Q:scanf函数报错
    >
    > A:将scanf改为scanf_s或者取消编译器提示,详情参照[这里](https://zhuanlan.zhihu.com/p/62742232)
 
