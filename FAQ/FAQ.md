@@ -78,5 +78,27 @@
 
 命名空间是个绝妙的想法，让我们多多地使用它们吧！
 
+## 配置
+
+### 1. Visual Studio 配置相关
+
+1. > Q:为什么Visual Studio安装完后无法新建C++空项目?
+   >
+   > A:安装的时候忘记选择C++包,可以选择重装也可以打开installer勾选C++包安装
+
+2. > Q:Visual Studio 2017 需要安装 .NET Framework 4.6 或更高版本
+   >
+   > A:在[这个网址](https://visualstudio.microsoft.com/zh-hans/vs/support/visual-studio-requires-net-framework-4-6-higher/)下载.NET Framework 4.6 或更高版本然后重启Visual Studio
+
+3. > Q:Visual Studio新建C++空项目无反应?
+   >
+   > A:安装完后需要重启电脑,然后尝试右键使用管理员启动Visual Studio
+
+### 2. Visual Studio 编程相关
+
+1. > Q:scanf函数报错
+   >
+   > A:将scanf改为scanf_s或者取消编译器提示,详情参照[这里](https://zhuanlan.zhihu.com/p/62742232)
+
 ## 待补充
 
