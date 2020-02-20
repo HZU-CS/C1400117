@@ -84,7 +84,7 @@
 
 1. > Q:为什么Visual Studio安装完后无法新建C++空项目?
    >
-   > A:安装的时候忘记选择C++包,可以选择重装也可以打开installer勾选C++包安装
+   > A:安装的时候忘记选择C++包,可以选择重新安装勾选C++包也可以打开installer勾选C++包安装
 
 2. > Q:Visual Studio需要安装 .NET Framework 4.6 或更高版本
    >

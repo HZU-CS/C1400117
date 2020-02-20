@@ -135,6 +135,7 @@ GUI客户端
 
 - [Git 有哪些好用的图形化客户端？目前用的最多的是？](https://www.zhihu.com/question/22932048)
 - Gitee自带的WebIDE
+- Visual Studio自带Git
 
 ## Markdown
 
