@@ -86,7 +86,7 @@
    >
    > A:安装的时候忘记选择C++包,可以选择重装也可以打开installer勾选C++包安装
 
-2. > Q:Visual Studio 2017 需要安装 .NET Framework 4.6 或更高版本
+2. > Q:Visual Studio需要安装 .NET Framework 4.6 或更高版本
    >
    > A:在[这个网址](https://visualstudio.microsoft.com/zh-hans/vs/support/visual-studio-requires-net-framework-4-6-higher/)下载.NET Framework 4.6 或更高版本然后重启Visual Studio
 
