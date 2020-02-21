@@ -1,10 +1,14 @@
 # 参考资料汇总
 
+## 个人推荐
+
+- [【2018年秋季】【10课时全】【双语字幕】 CS50 Lectures 2018](https://www.bilibili.com/video/av45936507)
+- [【2018年春季】【12课时全】【双语字幕】 使用 Python 和 JavaScript 进行网络编程](https://www.bilibili.com/video/av23102909)
+
 ## C
 
 网课
-
-- [cs50](http://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6MHDUR)
+- [【2018年秋季】【10课时全】【双语字幕】 CS50 Lectures 2018](https://www.bilibili.com/video/av45936507)
 - [C语言程序设计.浙江大学.翁恺](https://www.bilibili.com/video/av15267247)
 
 参考书
@@ -59,7 +63,6 @@
 - [Python 应该怎么学？](https://www.zhihu.com/question/353341563)
 
 网课
-
 - [Python for Beginners微软官方Python初学者教程](https://www.bilibili.com/video/av69042526)
 - [Introduction to Python Programming](https://cn.udacity.com/course/introduction-to-python--ud1110)
 - [python教程2019版](https://www.bilibili.com/video/av75855831)
