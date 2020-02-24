@@ -109,5 +109,11 @@
    >
    > A:将scanf改为scanf_s或者取消编译器提示,详情参照[这里](https://zhuanlan.zhihu.com/p/62742232)
 
+### 3.VSCode 配置相关
+
+1. > Q:如何添加path
+   >
+   > A:参考https://www.bilibili.com/video/av74490273
+
 ## 待补充
 
