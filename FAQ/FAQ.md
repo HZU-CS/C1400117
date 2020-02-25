@@ -112,6 +112,10 @@
 3. > Q:空项目在哪里写文件?
    >
    > A:找到源文件文件夹,右键新建源文件,记得把名字后缀改成.c即可.详情参考[这里](https://zhuanlan.zhihu.com/p/94998894)
+   
+4. > Q:Hello World里面的return后面跟着是什么?
+   >
+   > A:是数字0,有兴趣的可以参考[0的故事](https://www.bilibili.com/video/av15267247?p=22)
 
 ### 3.VSCode 配置相关
 
