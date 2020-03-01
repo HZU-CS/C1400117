@@ -13,6 +13,7 @@
 在hw2文件夹中新建hw2.md, 将基础题的答案都写在里面.
 
 1. (5%)选择题
+   
    A.
    
    ```c
@@ -20,17 +21,17 @@
     //Now, God only knows
    ```
    B.
-    ```c
+   ```c
     // drunk, fix later
-    ```
+   ```
    C.
-    ```c
+   ```c
     // no comments for you
     // it was hard to write
     // so it should be hard to read
-    ```
+   ```
    D.
-    ```c
+   ```c
     /*
      * You may think you know what the following code does.
      * But you dont. Trust me.
@@ -39,7 +40,7 @@
      * enough to "optimize" the code below.
      * Now close this file and go play with something else.
      */ 
-    ```
+   ```
    E.以上都不合适
    
 2. (20%)如何在不增加新变量的情况下交换***两个int***类型变量的值?
