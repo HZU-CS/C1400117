@@ -10,5 +10,7 @@
 8. use / as escape
 9. Markdown syntax
 10. Windows OS
-11. 
+11. No include
+12. integer division
+13. 
 
