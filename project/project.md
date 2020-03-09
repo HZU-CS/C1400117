@@ -6,16 +6,13 @@
 
 用C语言实现C++标准库中比较抽象的字符串和数据结构
 
-1. 实现std::string(10%)
-2. 实现std::vector(10%)
-3. 实现std::deque(10%)
-4. 实现std::list(10%)
+1. 实现std::string(20%)
+2. 实现std::vector(20%)
+4. 实现std::list(20%)
 5. 实现std::stack(10%)
 6. 实现std::queue(10%)
-7. 实现std::set(10%)
-8. 实现std::map(10%)
-9. 实现std::pair(10%)
-10. 实现std::tuple(10%)
+6. 实现分数(10%)
+7. 实现虚数(10%)
 
 ## 项目（不限语言）
 
