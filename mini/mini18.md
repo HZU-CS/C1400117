@@ -41,3 +41,18 @@ int main(void) {
 }
 ```
 
+条件运算符连续使用不是你想要都结果
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int x = -4;
+    if (-5 < x < 0) {
+        printf("wow, negative\n");
+    }
+    
+    return 0;
+}
+```
+
