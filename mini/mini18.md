@@ -25,3 +25,19 @@ int main(void) {
 }
 ```
 
+也可以用于变量
+
+```c
+#include <stdio.h>
+
+int main(void) {
+    int x = 0;
+    scanf("%d", &x);
+    if (x < 0) {
+        printf("wow, negative\n");
+    }
+    
+    return 0;
+}
+```
+
