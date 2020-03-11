@@ -1,0 +1,49 @@
+# 二手交易市场工作流
+
+1. 后端（需求三人）
+   1. 3.12~3.14
+      1. 学习JavaScript
+      2. https://www.runoob.com/js/js-tutorial.html
+      3. https://www.bilibili.com/video/av76460280
+   2. 3.15~3.20
+      1. 学习NodeJS
+      2. https://www.runoob.com/nodejs/nodejs-tutorial.html
+      3. https://www.bilibili.com/video/av22056141
+   3. 3.21~3.28
+      1. 开始服务器开发
+   4. 3.28~4.1
+      1. 和前端合并
+   5. 4.1~4.5
+      1. 测试+在线部署
+2. 前端（需求一人）
+   1. 3.12~3.15
+      1. 学习HTML+CSS+简单JavaScript
+      2. https://www.runoob.com/html/html5-intro.html
+      3. https://www.bilibili.com/video/av74800427
+      4. https://www.runoob.com/css/css-tutorial.html
+      5. https://www.bilibili.com/video/av76569804
+      6. https://www.runoob.com/js/js-tutorial.html
+      7. https://www.bilibili.com/video/av76460280
+   2. 3.16~3.18
+      1. 学习BootStrap4，JQuery
+      2. https://www.runoob.com/bootstrap4/bootstrap4-tutorial.html
+      3. https://www.runoob.com/jquery/jquery-tutorial.html
+      4. https://www.runoob.com/jqueryui/jqueryui-tutorial.html
+   3. 3.19~3.25
+      1. 开始前端开发
+   4. 3.25~3.28
+      1. 测试+准备接洽
+3. 数据库（需求一人）
+   1. 3.12~3.20
+      1. 学习数据库
+      2. https://www.liaoxuefeng.com/wiki/1177760294764384
+      3. https://www.bilibili.com/video/av39807944
+   2. 3.21~3.25
+      1. 开发数据库
+   3. 3.25~3.28
+      1. 测试+准备接洽
+      2. 部署
+4. 微信小程序（需求两人）
+   1. 3.29~4.5
+      1. 学习+开发
+      2. https://www.bilibili.com/video/av73342655
