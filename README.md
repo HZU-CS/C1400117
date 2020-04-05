@@ -3,7 +3,7 @@
 #### Description
 [[1400117]C语言程序设计](https://lkljty.gitee.io/class/1400117.html)
 
-
+[![star](https://gitee.com/lkljty/C1400117/badge/star.svg?theme=dark)](https://gitee.com/lkljty/C1400117/stargazers)[![fork](https://gitee.com/lkljty/C1400117/badge/fork.svg?theme=dark)](https://gitee.com/lkljty/C1400117/members)
 
 #### Lecture
 
