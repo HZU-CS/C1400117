@@ -3,9 +3,17 @@
 函数名(参数表)
 
 ```c
-function(4, 6);
-function(5, 5);
-// ...
+int function(int a, int b) {
+    int res = a * a + 2 * b;
+    return res;
+}
+
+int main(void) {
+    function(4, 6);
+    function(5, 5);
+    int a = function(1, 2);
+    function(function(1, 2), 3);
+}
 ```
 
 参数表顺序一致
