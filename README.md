@@ -39,8 +39,7 @@
 | hw3   | [hw3](./homework/hw3.md)     |
 | hw4   | [hw4](./homework/hw4.md)     |
 | hw5&6 | [hw5&6](./homework/hw5&6.md) |
-| hw7   | [hw7](./homework/hw7.md)     |
-| hw8   | [hw8](./homework/hw8.md)     |
+| hw7&8 | [hw7](./homework/hw7&8.md)   |
 
 
 
