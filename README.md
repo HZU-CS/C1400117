@@ -51,7 +51,7 @@
 
 #### Exam
 
-[Exam](./exam/exam.md)
+[Exam](./review/exam/exam.md)
 
 
 
